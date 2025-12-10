@@ -10,6 +10,7 @@ I believe in the power of technology to uplift people and am always looking to l
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2a2d2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-apolucena-b62a9a2b6/)
   [![Instagram](https://img.shields.io/badge/Instagram-2a2d2e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thur.apll/)
+  [![Gmail](https://img.shields.io/badge/Gmail-2a2d2e?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=apolucenaarthursantos@gmail.com)
 
 </div>
 <hr>
