@@ -62,3 +62,5 @@ I believe in the power of technology to uplift people and am always looking to l
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ArthurApolucena1&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=45%2C42474B%2C000000&fire=000000&ring=000000&currStreakNum=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
