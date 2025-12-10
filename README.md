@@ -12,9 +12,51 @@ I believe in the power of technology to uplift people and am always looking to l
   [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thur.apll/)
 
 </div>
+<hr>
 
-## Find me around the web 🌎: <img align="right" width="150" height="150" src="img/meu bonequinho sentado.png">
+<img align="left" height="300" src="img/meu bonequinho sentado.png">
+<div align="right">
+  <h2 align="center"><em>Studies</em></h2>
+  <br/>
+  <br/>
+  <p align="center">
+    <em><b> Technical Degree in Systems Development — ETEC Jardim Ângela </b></em> <br/>
+    <em><b> Technical Degree in Systems Development — Leila Sabino Prof </b></em><br/>
+    <em><b> Participant in the Liga Jovem Challenge — 3rd Edition </b></em><br/>
+    <em><b> Member of Basicly Softwares  </b></em><br/>
+  </p>
+</div>
 
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+<br/>
+<br/>
+<br/>
+
+<hr>
+<h2 align="center"><em> Technologies </em></h2>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian"/>
+</p>
+
+<br/>
+<br/>
+
+<hr>
+<h2 align="center"><em> Statistics </em></h2>
+
+<div align = "center"> 
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ArthurApolucena1&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=45%2C42474B%2C000000&fire=000000&ring=000000&currStreakNum=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
+
+</div>
