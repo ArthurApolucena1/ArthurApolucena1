@@ -8,8 +8,8 @@ I believe in the power of technology to uplift people and am always looking to l
 
 <div align="center">
   
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-apolucena-b62a9a2b6/)
-  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thur.apll/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2a2d2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-apolucena-b62a9a2b6/)
+  [![Instagram](https://img.shields.io/badge/Instagram-2a2d2e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thur.apll/)
 
 </div>
 <hr>
@@ -37,18 +37,18 @@ I believe in the power of technology to uplift people and am always looking to l
 <h2 align="center"><em> Technologies </em></h2>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp"/>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian"/>
+  <img src="https://img.shields.io/badge/HTML5-2a2d2e?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-2a2d2e?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-2a2d2e?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Figma-2a2d2e?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/-python-2a2d2e?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=2a2d2e"/>
+  <img src="https://img.shields.io/badge/Django-2a2d2e?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/C%23-2a2d2e?style=for-the-badge&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/PHP-2a2d2e?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/-mysql-2a2d2e?style=for-the-badge&logo=mysql&labelColor=2a2d2e"/>
+  <img src="https://img.shields.io/badge/GIT-2a2d2e?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-2a2d2e?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Debian-2a2d2e?style=for-the-badge&logo=debian"/>
 </p>
 
 <br/>
