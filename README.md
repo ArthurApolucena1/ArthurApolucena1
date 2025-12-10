@@ -30,6 +30,7 @@ I believe in the power of technology to uplift people and am always looking to l
 <br/>
 <br/>
 <br/>
+<br/>
 
 <hr>
 <h2 align="center"><em> Technologies </em></h2>
