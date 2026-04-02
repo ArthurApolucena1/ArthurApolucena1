@@ -60,7 +60,7 @@ I believe in the power of technology to uplift people and am always looking to l
 
 <div align = "center"> 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ArthurApolucena1&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=45%2C42474B%2C000000&fire=000000&ring=000000&currStreakNum=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArthurApolucena1&theme=highcontrast&hide_border=true&border_radius=50&locale=pt_BR&fire=7B7B7B&ring=FFFFFFBD&currStreakLabel=FFB8B8" alt="GitHub Streak" /></a>
 
 </div>
 
