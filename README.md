@@ -1,7 +1,7 @@
 # Hi, I'm Arthur <img src="img/gif-de-saudação.gif" width="40">
 
 <img src="img/capa github.jpg">
-I am a Systems Analysis and Development student with a great passion for technology and programming.
+I am a cross-platform software development student with a strong passion for technology.
 
 My dedication lies in exploring new approaches and tools, constantly seeking to enhance my skills and knowledge. I do this primarily through the creation and execution of practical projects.
 I believe in the power of technology to uplift people and am always looking to learn and build systems that generate a positive impact. My goal is to apply the acquired knowledge to develop effective solutions.
